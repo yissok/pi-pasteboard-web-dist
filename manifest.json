@@ -1,26 +1,26 @@
 {
   "version": 4,
-  "assets": "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1",
+  "assets": "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1",
   "app": "pi-pasteboard-web",
-  "global": "__sveltekit_knrxjs",
-  "start": "_app/immutable/entry/start.R3K_SeZe.js",
-  "appEntry": "_app/immutable/entry/app.B0C0jUOI.js",
+  "global": "__sveltekit_5gw9vc",
+  "start": "_app/immutable/entry/start.B16OF83u.js",
+  "appEntry": "_app/immutable/entry/app.hAUivOME.js",
   "styles": [
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/assets/2.Bjc93Zzt.css"
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/assets/2.KZYYqlz3.css"
   ],
   "scripts": [],
   "preloads": [
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/entry/start.R3K_SeZe.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/Cf1YF9Jv.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/CfApVbWy.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/WabC-XF-.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/entry/app.B0C0jUOI.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/CKYt4OgB.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/Ca1skjhV.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/BaIzMNX_.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/JzwPXsqG.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/nodes/0.C-7QfHLf.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/nodes/2.CKZ5Jtuh.js"
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/entry/start.B16OF83u.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/chunks/BGh_n59t.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/chunks/DO1rHYsD.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/chunks/CcGpmwrD.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/entry/app.hAUivOME.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/chunks/DZbvdCvC.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/chunks/DWlqnP3x.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/chunks/DAdfpgxY.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/chunks/Bjmi5DRS.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/nodes/0.DeowvRwc.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/79803e3341c2afc33d056bda4758b44f4eecfb59-38255987528-1/_app/immutable/nodes/2.D57hJdID.js"
   ],
   "social": {
     "title": "Pasteboard",
