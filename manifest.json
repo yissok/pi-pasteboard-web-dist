@@ -1,25 +1,29 @@
 {
   "version": 4,
-  "assets": "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1",
+  "assets": "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1",
   "app": "pi-pasteboard-web",
-  "global": "__sveltekit_1ii74v2",
-  "start": "_app/immutable/entry/start.TwW6goio.js",
-  "appEntry": "_app/immutable/entry/app.Df4N8Npa.js",
-  "styles": [],
+  "global": "__sveltekit_knrxjs",
+  "start": "_app/immutable/entry/start.R3K_SeZe.js",
+  "appEntry": "_app/immutable/entry/app.B0C0jUOI.js",
+  "styles": [
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/assets/2.Bjc93Zzt.css"
+  ],
   "scripts": [],
   "preloads": [
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/entry/start.TwW6goio.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/chunks/CYZ1ENvu.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/chunks/CLEwBzqS.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/chunks/DK4_ttQw.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/entry/app.Df4N8Npa.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/chunks/D9ZLV0mK.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/chunks/Dwsh6vRw.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/chunks/6MI2XUp1.js",
-    "https://yissok.github.io/pi-pasteboard-web-dist/releases/343f6a6ba0e602d6c1af33f1b7b26fd738a3ba02-38231512771-1/_app/immutable/nodes/0.CRiRneHV.js"
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/entry/start.R3K_SeZe.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/Cf1YF9Jv.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/CfApVbWy.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/WabC-XF-.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/entry/app.B0C0jUOI.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/CKYt4OgB.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/Ca1skjhV.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/BaIzMNX_.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/chunks/JzwPXsqG.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/nodes/0.C-7QfHLf.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/7731494d38354107a98f1dc68effc42e8ffb12d7-38247050800-1/_app/immutable/nodes/2.CKZ5Jtuh.js"
   ],
   "social": {
-    "title": "Pi Pasteboard Web",
-    "description": "An interactive website created with Project Factory."
+    "title": "Pasteboard",
+    "description": "One shared text field across your Mac, iPhone, and browser."
   }
 }
