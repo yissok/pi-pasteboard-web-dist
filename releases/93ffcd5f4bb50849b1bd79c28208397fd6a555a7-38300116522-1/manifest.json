@@ -1,0 +1,29 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1",
+  "app": "pi-pasteboard-web",
+  "global": "__sveltekit_dxy94k",
+  "start": "_app/immutable/entry/start.BNOn4P4H.js",
+  "appEntry": "_app/immutable/entry/app.BzDj9ilc.js",
+  "styles": [
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/assets/2.CrmyjH24.css"
+  ],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/entry/start.BNOn4P4H.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/chunks/BGh_n59t.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/chunks/CEJBLPP5.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/chunks/CcGpmwrD.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/entry/app.BzDj9ilc.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/chunks/DZbvdCvC.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/chunks/DWlqnP3x.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/chunks/DAdfpgxY.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/chunks/Bjmi5DRS.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/nodes/0.DeowvRwc.js",
+    "https://yissok.github.io/pi-pasteboard-web-dist/releases/93ffcd5f4bb50849b1bd79c28208397fd6a555a7-38300116522-1/_app/immutable/nodes/2.CWffinZh.js"
+  ],
+  "social": {
+    "title": "Pasteboard",
+    "description": "One shared text field across your Mac, iPhone, and browser."
+  }
+}
